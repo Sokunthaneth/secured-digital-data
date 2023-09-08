@@ -1,5 +1,5 @@
-#SECURED DIGITAL DATA
-
+SECURED DIGITAL DATA
+=
 ## Test Scenario
 2 people are trying to have secured communication. They are User A, and User B.
 
