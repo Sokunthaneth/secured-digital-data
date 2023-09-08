@@ -73,6 +73,7 @@ Data verification in blockchain:
    b. if not match, verification failed
 
 <hr>
+
 ## SUMMARY
 - openssl solves whether data was actually signed by User A or not
 - blockchain solves whether data has been tempered or not
